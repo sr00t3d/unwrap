@@ -1,5 +1,7 @@
 # unwrap — Static PHP Malware & Obfuscation Deobfuscator (`v2.0.0`)
 
+![unwrap cover](unwrap-cover.webp)
+
 A modern, standalone Bash + Python 3 CLI for **statically unwrapping multi-layer obfuscated PHP malware and webshells** (`eval`, `gzinflate`, `base64_decode`, `str_rot13`, `gzuncompress`, `gzdecode`, `hex2bin`, `strrev`, `urldecode`) — replacing legacy 2011 Python 2 `unwrap` with safe byte-level decoding, webshell indicator detection, and `table` / `json` / `csv` outputs.
 
 ## Historical Modernization

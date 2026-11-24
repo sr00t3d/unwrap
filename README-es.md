@@ -1,5 +1,7 @@
 # unwrap — Desofuscador Estático de Malware y Webshells PHP (`v2.0.0`)
 
+![unwrap cover](unwrap-cover.webp)
+
 Una CLI moderna e independiente en Bash + Python 3 para **desofuscar estáticamente malware y webshells PHP multicapa** (`eval`, `gzinflate`, `base64_decode`, `str_rot13`, `gzuncompress`, `gzdecode`, `hex2bin`, `strrev`, `urldecode`) — reemplazando el legado Python 2 `unwrap` (2011) con decodificación segura en bytes y salidas `table` / `json` / `csv`.
 
 ## Modernización Histórica
